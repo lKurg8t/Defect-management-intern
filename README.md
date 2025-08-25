@@ -22,7 +22,7 @@ API on `http://localhost:4000/api`:
 ```
 cd client
 npm i
-npm start
+npm run dev
 ```
 Login saves a demo token to `localStorage` and redirects to `/dashboard` (replace with real API call).
 
